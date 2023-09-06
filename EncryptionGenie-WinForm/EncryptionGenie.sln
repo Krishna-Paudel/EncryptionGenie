@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptionGenie", "EncryptionGenie\EncryptionGenie.csproj", "{0DECC156-A484-46D3-824E-D0AA3E22FBEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DECC156-A484-46D3-824E-D0AA3E22FBEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DECC156-A484-46D3-824E-D0AA3E22FBEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DECC156-A484-46D3-824E-D0AA3E22FBEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DECC156-A484-46D3-824E-D0AA3E22FBEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90ECF876-1FBA-42B2-A54C-DB6B8BF0C0A2}
+	EndGlobalSection
+EndGlobal

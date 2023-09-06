@@ -1,0 +1,18 @@
+2023-04-24 21:28:00.346 [1] INFO  EncryptionGenie.Program - Encryption Genie Application started.
+2023-04-24 21:28:28.590 [1] INFO  EncryptionGenie.Controller - New instance of Controller has been created.
+2023-04-24 21:28:28.604 [1] INFO  EncryptionGenie.Controller - Encryption of file C:\Users\v-krpaudel\OneDrive - UW\CSS 517 - Information Assurance\hack\README.mdhas started.
+2023-04-24 21:28:28.614 [11] INFO  EncryptionGenie.Controller - Generating random salt for master key.
+2023-04-24 21:28:28.619 [11] INFO  EncryptionGenie.Controller - Iteration = 64065   TotalTime (in ms) = 0   TotalTime (in Ticks) = 1946
+2023-04-24 21:28:28.634 [11] INFO  EncryptionGenie.Controller - Master Key, Encryption Key and HMAC Key for encryption process has been generated.
+2023-04-24 21:28:28.638 [11] INFO  EncryptionGenie.Controller - Encryption completed. Generating metadata.
+2023-04-24 21:28:28.663 [1] INFO  EncryptionGenie.Controller - Generated the ecnrypted file at C:\Users\v-krpaudel\OneDrive - UW\CSS 517 - Information Assurance\hack\README.md.enc
+2023-04-24 21:28:38.990 [1] INFO  EncryptionGenie.Controller - New instance of Controller has been created.
+2023-04-24 21:28:39.002 [11] INFO  EncryptionGenie.Controller - Decryption of file C:\Users\v-krpaudel\OneDrive - UW\CSS 517 - Information Assurance\hack\README.md.enc has started.
+2023-04-24 21:28:39.005 [11] INFO  EncryptionGenie.Controller - Loading encrypted file into memory.
+2023-04-24 21:28:39.011 [11] INFO  EncryptionGenie.Controller - Fetching metadata from the file.
+2023-04-24 21:28:39.013 [11] INFO  EncryptionGenie.Controller - Regenerating Master Key, Encryption Key and HMAC Key.
+2023-04-24 21:28:39.014 [11] INFO  EncryptionGenie.Controller - Iteration = 64065   TotalTime (in ms) = 0   TotalTime (in Ticks) = 255
+2023-04-24 21:28:39.028 [11] INFO  EncryptionGenie.Controller - Reading the IV of one block size.
+2023-04-24 21:28:39.028 [11] INFO  EncryptionGenie.Controller - Computing hash for integrity check.
+2023-04-24 21:28:39.031 [11] INFO  EncryptionGenie.Controller - File has been decrypted and save at C:\Users\v-krpaudel\OneDrive - UW\CSS 517 - Information Assurance\hack\README.md.
+2023-04-24 21:28:42.518 [1] INFO  EncryptionGenie.Program - Encryption Genie Application ended.
