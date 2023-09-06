@@ -20,11 +20,9 @@ This is the main entry point of the program that checks the operating system the
 
 These are classes based on Windows Form that generate the UI of the encryption and decryption page. Each of these take input from the users and validate them.
 
-![](![image](https://github.com/Krishna-Paudel/EncryptionGenie/assets/52009770/cbf39b65-3308-44ff-a5d5-c3a3596ab75b)
-)
+[image](https://github.com/Krishna-Paudel/EncryptionGenie/assets/52009770/cbf39b65-3308-44ff-a5d5-c3a3596ab75b)
 
-![](![image](https://github.com/Krishna-Paudel/EncryptionGenie/assets/52009770/895edab3-7020-4ff0-82d4-a322baff6932)
-)
+[image](https://github.com/Krishna-Paudel/EncryptionGenie/assets/52009770/895edab3-7020-4ff0-82d4-a322baff6932)
 
 1. Controller.cs
 
@@ -50,8 +48,8 @@ The recommended minimum iterations count is 1000 as per the standard [RFC 2898, 
 
 Hence, we went ahead with randomizing the iterations from 1000 to 10,000 while generating the master key with PBKDF2.
 
-![](![image](https://github.com/Krishna-Paudel/EncryptionGenie/assets/52009770/f50af9a3-19c6-4299-b5bb-fa0f22e81bec)
-)
+[image](https://github.com/Krishna-Paudel/EncryptionGenie/assets/52009770/f50af9a3-19c6-4299-b5bb-fa0f22e81bec)
+
 
 **How to run the utility:**
 
